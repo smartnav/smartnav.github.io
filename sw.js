@@ -3,7 +3,7 @@ var filesToCache = [
   '/',
   '/index.html',
   '/assets/css/navish.css',
-  '/assets/js/app.js'
+  '/assets/js/app.js',
 ];
 
 /* Start the service worker and cache all of the app's content */
